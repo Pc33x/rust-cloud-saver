@@ -1,3 +1,3 @@
 pub fn print_welcome() {
-    println!("Welcome to RCS (Rust-Cloud-Saver)");
+    println!("Welcome to RCS (Rust-Cloud-Saver).");
 }
